@@ -1,16 +1,19 @@
 # Senior Design Project
 
-## Milestones
+## Tyler's Milestones
 - Learn python basics
+- Install opencv and numpy
 - Do simple camera color detection using opencv and numpy
-- Make camera recognize simple objects
+- Calibrate camera
+- Make camera recognize simple shapes
 - Learn basics of open3D
-- Make open3D do simple color detection and recognize simple objects
+- Make open3D do simple color detection and recognize simple shapes
+- Filter noise
 - Make open3D detect angles and depth
-- Display length and angles on screen
-- 
+- Display widths,lengths, depths and angles on screen
+- Recognize shapes and colors drawn on metal and use that to tell the robotic arm what to do
 
-## Project Statement and Goals
+## Tyler's Project Statement
 
 
 ## Wyatt Short-term Milestones
