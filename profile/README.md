@@ -43,7 +43,13 @@
 -
 
 ## Wyatt Project Statement
-The goal of this desgin is to provide reliable code that utilizes color, shape, 
-and depth information from singular photos to route the welding armin an 
-optimized way, minimizing the amount of required training for operators and 
-allowing welders to more effectively control details of the weld.
+The goal of this design is to provide reliable code that utilizes color, shape, 
+and depth information from a mounted camera to route a robotic welding arm in an 
+optimized way without manual input, minimizing the amount of required training for 
+operators and allowing welders to more effectively control details of the weld.
+
+## Elevator Speech 
+Our project is aiming to mount a camera onto a production-level robotic welding arm 
+that can process markings written on the joint and identify the best route to take, 
+minimizing expensive iconsistencies between welds as well as the resources/man-power 
+needed on the production line.
