@@ -1,5 +1,16 @@
 # Senior Design Project
 
+
+##Order of Frames Steps
+- Get Frame
+- Noise Reduction Filter
+- Color Filter - 
+- Character Detection - Put up prompt asking if the letters detected are correct
+- Shape Detection
+- Line Detection
+- Confidence?
+- Output
+
 ## Tyler's Milestones
 - Learn python basics
 - Install opencv and numpy
