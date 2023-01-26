@@ -1,7 +1,7 @@
 # Senior Design Project
 
 
-##Order of Frames Steps
+## Order of Frames Steps
 - Get Frame
 - Noise Reduction Filter
 - Color Filter - 
